@@ -11,6 +11,14 @@
 <a href="https://www.youtube.com/c/ege.the.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ege.the.engineer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/egebulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="egebulut" height="30" width="40" /></a>
 </p>
+
+___________
+
+## Achievements
+
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut&rank=-?&column=-1&margin-w=25&no-bg=true)](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut)
+
+
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -57,9 +65,3 @@
 <br><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ege-bulut&" alt="ege-bulut" />
 </p>
-
-___________
-
-## Achievements
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ege-bulut" alt="ege-bulut" /></a> </p>
