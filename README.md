@@ -21,7 +21,7 @@ ___________
 
 ## Achievements
 
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut&rank=-?&column=-1&margin-w=25&no-bg=true)](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=ege-bulut&rank=-?&column=-1&margin-w=25&no-bg=true)](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut)
 
 
 <br>
