@@ -1,5 +1,5 @@
 <h1 align="center">Ege BULUT | <img src="https://komarev.com/ghpvc/?username=ege-bulut&label=Profile%20views&color=0e75b6&style=flat" alt="ege-bulut" /> </h1>
-<h3 align="center">A passionate R&D AI Engineer & 3D NFT Artist & Software Developer</h3>
+<h3 align="center">A passionate R&D AI Solution Architect & 3D NFT Artist & Lead AI Engineer</h3>
 
 <h3 align="center">Connect with me:</h3>
 
@@ -20,9 +20,7 @@
 ___________
 
 ## Achievements
-
-[![trophy](https://gh-trophy.cdnsoft.net/?username=ege-bulut&rank=-?&column=-1&margin-w=25&no-bg=true)](https://trophygithubreadmelang.cybee.dpdns.org/?username=ege-bulut)
-
+[![trophy](https://github-torphy.vercel.app/?username=ege-bulut&theme=default&column=-1&margin-w=25&no-bg=true)](https://github.com/ege-bulut)
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
