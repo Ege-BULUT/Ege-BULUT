@@ -1,6 +1,25 @@
 <h1 align="center">Ege BULUT | <img src="https://komarev.com/ghpvc/?username=ege-bulut&label=Profile%20views&color=0e75b6&style=flat" alt="ege-bulut" /> </h1>
 <h3 align="center">A passionate R&D AI Solution Architect & 3D NFT Artist & Lead AI Engineer</h3>
 
+<p align="center">You can also call me as:</p>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center">"<b>Senior Agentic AI Systems Engineer</b>" if you are from <a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
+  </tr>
+  <tr>
+    <td align="center">"<b>R&D AI Solution architect</b>" if you are from <a href="https://www.qit.codes/"><i>.QIT</i></a></td>
+  </tr>
+  <tr>
+    <td align="center">"<b>AI R&D Team Lead</b>" if you are from <a href="https://www.rail-flow.com/en/"><i>Rail&Flow GmbH</i></a></td>
+  </tr>
+  <tr>
+    <td align="center">"<b>Lead AI Developer</b>" if you are from <a href="https://simplydeliver.com/en/"><i>Simply Deliver</i></a></td>
+  </tr>
+</table>
+
+<p align="center">Or just call me "<b>Ege</b>" ;)</p>
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
