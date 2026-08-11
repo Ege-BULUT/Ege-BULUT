@@ -8,7 +8,7 @@
     <td align="center">"<b>Agentic AI Systems Engineer</b>" if you are from <a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
   </tr>
   <tr>
-    <td align="center">"<b>R&D AI Solution architect</b>" if you are from <a href="https://www.qit.codes/"><i>.QIT</i></a></td>
+    <td align="center">"<b>AI Solution architect</b>" if you are from <a href="https://www.qit.codes/"><i>.QIT</i></a></td>
   </tr>
   <tr>
     <td align="center">"<b>AI R&D Team Lead</b>" if you are from <a href="https://www.rail-flow.com/en/"><i>Rail&Flow GmbH</i></a></td>
