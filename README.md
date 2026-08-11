@@ -5,16 +5,24 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center">"<b>Agentic AI Systems Engineer</b>" if you are from <a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
+    <td align="right">"<b>Agentic AI Systems Engineer</b>"</td>
+    <td align="center">if you are from</td>
+    <td align="left"><a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
   </tr>
   <tr>
-    <td align="center">"<b>AI Solution architect</b>" if you are from <a href="https://www.qit.codes/"><i>.QIT</i></a></td>
+    <td align="right">"<b>AI Solution architect</b>"</td>
+    <td align="center">if you are from</td>
+    <td align="left"><a href="https://www.qit.codes/"><i>.QIT</i></a></td>
   </tr>
   <tr>
-    <td align="center">"<b>AI R&D Team Lead</b>" if you are from <a href="https://www.rail-flow.com/en/"><i>Rail&Flow GmbH</i></a></td>
+    <td align="right">"<b>AI R&D Team Lead</b>"</td>
+    <td align="center">if you are from</td>
+    <td align="left"><a href="https://www.rail-flow.com/en/"><i>Rail&Flow GmbH</i></a></td>
   </tr>
   <tr>
-    <td align="center">"<b>Lead AI Developer</b>" if you are from <a href="https://simplydeliver.com/en/"><i>Simply Deliver</i></a></td>
+    <td align="right">"<b>Lead AI Developer</b>"</td>
+    <td align="center">if you are from</td>
+    <td align="left"><a href="https://simplydeliver.com/en/"><i>Simply Deliver</i></a></td>
   </tr>
 </table>
 
