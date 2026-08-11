@@ -5,7 +5,7 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center">"<b>Senior Agentic AI Systems Engineer</b>" if you are from <a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
+    <td align="center">"<b>Agentic AI Systems Engineer</b>" if you are from <a href="https://www.huawei.com/en/"><i>Huawei</i></a></td>
   </tr>
   <tr>
     <td align="center">"<b>R&D AI Solution architect</b>" if you are from <a href="https://www.qit.codes/"><i>.QIT</i></a></td>
